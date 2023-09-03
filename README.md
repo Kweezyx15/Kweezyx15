@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1103765642152247416/1147848764879536259/banner2-removebg-preview.png)
+[![MasterHead](https://cdn.discordapp.com/attachments/1103765642152247416/1147848764879536259/banner2.jpg)
 <h1 align="center">Hi 👋, I'm Es Lewixx</h1>
 <h3 align="center">Merhabalar Ben Es Lewixx Ve Bir Frontend Geliştiricisiyim</h3>
 
